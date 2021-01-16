@@ -1,0 +1,8 @@
+undictify
+requests
+flask
+flask-jwt-extended
+flask-jwt
+pyjwt
+humanize
+gunicorn

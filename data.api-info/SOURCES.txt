@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+data.api-info/PKG-INFO
+data.api-info/SOURCES.txt
+data.api-info/dependency_links.txt
+data.api-info/requires.txt
+data.api-info/top_level.txt
