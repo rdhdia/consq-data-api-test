@@ -123,7 +123,7 @@ dmypy.json
 .pyre/
 
 # Project related items
-# secrets.json
+secrets.json
 .idea/
 .vscode/
 .DS_Store/
